@@ -17,13 +17,9 @@ public class Actividad1
         System.out.println("===================================="); //Separador visual
         //Impresión en pantalla
         if (sum > 0)
-        {
             System.out.println(num1 + " + " + num2 + " = " + sum + " (es positivo)");
-        }
         else
-        {
             System.out.println(num1 + " + " + num2 + " = " + sum + " (es negativo)");
-        }
 
     }
 }
